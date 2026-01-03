@@ -1,5 +1,5 @@
 
-# 🎨 Image to ASCII Converter (CLI) - Day68 
+# 🎨 Image to ASCII Converter (CLI) - Day1
 
 A simple yet powerful **Image → ASCII Art** converter written in Python.  
 Convert any image into detailed ASCII output directly in your terminal or save it as a `.txt` file.
